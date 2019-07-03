@@ -1,0 +1,417 @@
+{
+    "$xmlns": {
+        "pl1": "http://access.auth.theplatform.com/data/Account/2295898951",
+        "nbcu": "http://xml.nbcuni.com/media/field"
+    },
+    "startIndex": 1,
+    "itemsPerPage": 3,
+    "entryCount": 3,
+    "title": "PROD Feed for Video Assets",
+    "description": "PROD Feed for Video Assets",
+    "entries": [
+        {
+            "id": "http://data.media.theplatform.com/media/data/Media/939146307771",
+            "guid": "3515752",
+            "updated": 1494453617000,
+            "title": "Queen of the South - There’s A New Queen In Town",
+            "description": "Queen of the South premieres Thursday, June 8 at 10/9c.",
+            "added": 1494285069000,
+            "availableDate": 1494453600000,
+            "expirationDate": 1497002400000,
+            "categories": [
+                {
+                    "name": "Series/Queen of the South",
+                    "scheme": "",
+                    "label": ""
+                }
+            ],
+            "copyright": "",
+            "copyrightUrl": "",
+            "keywords": "Queen of the South,Alice Braga,Adrana Barraza,Hemky Madera,James Martinez,Joaquim de Almeida",
+            "ratings": [
+                {
+                    "scheme": "urn:mpaa",
+                    "rating": "nr",
+                    "subRatings": [
+
+                    ]
+                }
+            ],
+            "countries": [
+                "GU",
+                "MP",
+                "PR",
+                "US",
+                "VI"
+            ],
+            "excludeCountries": false,
+            "content": [
+                {
+                    "duration": 30.030,
+                    "format": "MPEG4",
+                    "height": 240,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 30.030,
+                    "format": "MPEG4",
+                    "height": 544,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                },
+                {
+                    "duration": 30.000,
+                    "format": "MPEG4",
+                    "height": 720,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1280
+                },
+                {
+                    "duration": 30.000,
+                    "format": "MPEG4",
+                    "height": 540,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                },
+                {
+                    "duration": 30.000,
+                    "format": "MPEG4",
+                    "height": 1080,
+                    "isDefault": true,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1920
+                },
+                {
+                    "duration": 30.000,
+                    "format": "MPEG4",
+                    "height": 360,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 640
+                },
+                {
+                    "duration": 30.000,
+                    "format": "MPEG4",
+                    "height": 234,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 0.000,
+                    "format": "TCM",
+                    "height": 0,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 0
+                }
+            ],
+            "thumbnails": [
+                {
+                    "duration": 0.000,
+                    "format": "JPEG",
+                    "height": 1080,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://tve-static-usanetwork.nbcuni.com/prod/image/664/731/170508_3515752_Queen_of_the_South___Action_Packed_anvver_2.jpg",
+                    "width": 1920
+                }
+            ],
+            "pubDate": 1494283080000,
+            "defaultThumbnailUrl": "http://tve-static-usanetwork.nbcuni.com/prod/image/664/731/170508_3515752_Queen_of_the_South___Action_Packed_anvver_2_800x450_939405379534.jpg",
+            "provider": "USA",
+            "pl1$dayPart": "Primetime",
+            "pl1$entitlement": "free",
+            "pl1$event": "",
+            "pl1$externalAdvertiserId": "USA_ANV_3515752",
+            "pl1$fullEpisode": false,
+            "pl1$promo": false,
+            "pl1$seasonNumber": 2,
+            "pl1$shortDescription": "Queen of the South premieres Thursday, June 8 at 10/9c.",
+            "pl1$shortTitle": "Queen of the South - There’s A New Queen In Town",
+            "nbcu$advertisingGenre": "Drama",
+            "nbcu$programmingType": "Undefined"
+        },
+        {
+            "id": "http://data.media.theplatform.com/media/data/Media/939128899982",
+            "guid": "3515747",
+            "updated": 1494324030000,
+            "title": "Queen of the South - All The Way Up",
+            "description": "Catch the premiere of Queen of the South Thursday, June 8 at 10/9c.",
+            "added": 1494283878000,
+            "availableDate": 1494324000000,
+            "expirationDate": 1497002400000,
+            "categories": [
+                {
+                    "name": "Series/Queen of the South",
+                    "scheme": "",
+                    "label": ""
+                }
+            ],
+            "copyright": "",
+            "copyrightUrl": "",
+            "keywords": "Queen of the South,Alice Braga,Adrana Barraza,Hemky Madera,James Martinez,Joaquim de Almeida",
+            "ratings": [
+                {
+                    "scheme": "urn:mpaa",
+                    "rating": "nr",
+                    "subRatings": [
+
+                    ]
+                }
+            ],
+            "countries": [
+                "GU",
+                "MP",
+                "PR",
+                "US",
+                "VI"
+            ],
+            "excludeCountries": false,
+            "content": [
+                {
+                    "duration": 60.000,
+                    "format": "MPEG4",
+                    "height": 360,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 640
+                },
+                {
+                    "duration": 60.061,
+                    "format": "MPEG4",
+                    "height": 544,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                },
+                {
+                    "duration": 60.000,
+                    "format": "MPEG4",
+                    "height": 234,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 60.061,
+                    "format": "MPEG4",
+                    "height": 240,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 60.000,
+                    "format": "MPEG4",
+                    "height": 720,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1280
+                },
+                {
+                    "duration": 60.000,
+                    "format": "MPEG4",
+                    "height": 540,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                },
+                {
+                    "duration": 60.000,
+                    "format": "MPEG4",
+                    "height": 1080,
+                    "isDefault": true,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1920
+                },
+                {
+                    "duration": 0.000,
+                    "format": "TCM",
+                    "height": 0,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 0
+                }
+            ],
+            "thumbnails": [
+                {
+                    "duration": 0.000,
+                    "format": "JPEG",
+                    "height": 1080,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://tve-static-usanetwork.nbcuni.com/prod/image/648/115/170508_3515747_Queen_of_the_South___All_The_Way_Up.jpg",
+                    "width": 1920
+                }
+            ],
+            "pubDate": 1494282540000,
+            "defaultThumbnailUrl": "http://tve-static-usanetwork.nbcuni.com/prod/image/648/115/170508_3515747_Queen_of_the_South___All_The_Way_Up_800x450_939133507784.jpg",
+            "provider": "USA",
+            "pl1$dayPart": "Primetime",
+            "pl1$entitlement": "free",
+            "pl1$event": "",
+            "pl1$externalAdvertiserId": "USA_ANV_3515747",
+            "pl1$fullEpisode": false,
+            "pl1$promo": false,
+            "pl1$seasonNumber": 2,
+            "pl1$shortDescription": "Catch the premiere of Queen of the South Thursday, June 8 at 10/9c.",
+            "pl1$shortTitle": "Queen of the South - All The Way Up",
+            "nbcu$advertisingGenre": "Drama",
+            "nbcu$programmingType": "Undefined"
+        },
+        {
+            "id": "http://data.media.theplatform.com/media/data/Media/914045507807",
+            "guid": "3496379",
+            "updated": 1494151208000,
+            "title": "Big Star Little Star Interview:  Penn Jillette, Brooke Burke, Harold Perrineau",
+            "description": "Meet the celebrity contestants of the hilarious new game show, BIG STAR LITTLE STAR. Check out more exclusive BIG STAR LITTLE STAR videos, galleries and more at usanetwork.com.",
+            "added": 1491347776000,
+            "availableDate": 1494151200000,
+            "expirationDate": 1499853600000,
+            "categories": [
+                {
+                    "name": "Series/Big Star Little Star",
+                    "scheme": "",
+                    "label": ""
+                }
+            ],
+            "copyright": "",
+            "copyrightUrl": "",
+            "keywords": "Big Star Little Star,Cat Deeley,Corin Nelson,David George,Brian Zagorsk",
+            "ratings": [
+                {
+                    "scheme": "urn:v-chip",
+                    "rating": "tv-pg",
+                    "subRatings": [
+
+                    ]
+                }
+            ],
+            "countries": [
+
+            ],
+            "excludeCountries": true,
+            "content": [
+                {
+                    "duration": 63.000,
+                    "format": "MPEG4",
+                    "height": 1080,
+                    "isDefault": true,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1920
+                },
+                {
+                    "duration": 63.000,
+                    "format": "MPEG4",
+                    "height": 720,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 1280
+                },
+                {
+                    "duration": 63.000,
+                    "format": "MPEG4",
+                    "height": 360,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 640
+                },
+                {
+                    "duration": 63.364,
+                    "format": "MPEG4",
+                    "height": 240,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 63.000,
+                    "format": "MPEG4",
+                    "height": 540,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                },
+                {
+                    "duration": 0.000,
+                    "format": "TCM",
+                    "height": 0,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 0
+                },
+                {
+                    "duration": 63.000,
+                    "format": "MPEG4",
+                    "height": 234,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 416
+                },
+                {
+                    "duration": 63.364,
+                    "format": "MPEG4",
+                    "height": 544,
+                    "isDefault": false,
+                    "language": "en",
+                    "url": "http://link.theplatform.com/...",
+                    "width": 960
+                }
+            ],
+            "thumbnails": [
+                {
+                    "duration": 0.000,
+                    "format": "JPEG",
+                    "height": 1080,
+                    "isDefault": false,
+                    "language": "",
+                    "url": "http://tve-static-usanetwork.nbcuni.com/prod/image/278/743/170404_3496379_Big_Star_Little_Star_Interview___Penn_Jillet.jpg",
+                    "width": 1920
+                }
+            ],
+            "pubDate": 1491341820000,
+            "defaultThumbnailUrl": "http://tve-static-usanetwork.nbcuni.com/prod/image/278/743/170404_3496379_Big_Star_Little_Star_Interview___Penn_Jillet_800x450_914051139503.jpg",
+            "provider": "USA",
+            "pl1$dayPart": "Primetime",
+            "pl1$entitlement": "free",
+            "pl1$event": "",
+            "pl1$externalAdvertiserId": "USA_ANV_3496379",
+            "pl1$fullEpisode": false,
+            "pl1$promo": false,
+            "pl1$seasonNumber": 1,
+            "pl1$shortDescription": "Meet the celebrity contestants of the hilarious new game show, BIG STAR LITTLE STAR. Check out more exclusive BIG STAR LITTLE STAR videos, galleries and more at usanetwork.com.",
+            "pl1$shortTitle": "Big Star Little Star Interview:  Penn Jillette, Brooke Burke, Harold Perrineau",
+            "nbcu$advertisingGenre": "Reality and Game Show",
+            "nbcu$programmingType": "Behind the Scenes"
+        }
+    ]
+}
