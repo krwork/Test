@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <VAST version="3.0">
+        <Ad id="20565a9655c487ce8175e85031ec77e4-13426.9a54f.6cd8" sequence="1">
+            <InLine>
+                <AdSystem version="1.0">OTTfeed: Custom Roku</AdSystem>
+                <AdTitle>
+                    <![CDATA[OTTfeed Integration Test Secure]]>
+                </AdTitle>
+                <Description>
+                    <![CDATA[OTTfeed Integration Test Secure]]>
+                </Description>
+                <Creatives>
+                    <Creative sequence="1">
+                        <Linear>
+                            <Duration>00:00:15</Duration>
+                            <VideoClicks>
+                                <ClickThrough>
+                                </ClickThrough>
+                            </VideoClicks>
+                            <MediaFiles>
+                                <MediaFile delivery="progressive" type="video/mp4" bitrate="2461" width="1280" height="720">
+                                    <![CDATA[https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4]]>
+                                </MediaFile>
+                            </MediaFiles>
+                        </Linear>
+                    </Creative>
+                </Creatives>
+                <Extensions>
+                    <Extension type="Pricing">
+                        <Price model="CPM" currency="USD" source="spotxchange">
+                            <![CDATA[0.6]]>
+                        </Price>
+                    </Extension>
+                    <Extension type="OTTfeed-Count">
+                        <total_available>
+                            <![CDATA[8]]>
+                        </total_available>
+                    </Extension>
+                    <Extension type="OTTfeed-Regs">
+                        <GDPR>0</GDPR>
+                    </Extension>
+                    <Extension type="OTTfeed-User">
+                        <consent>2</consent>
+                    </Extension>
+                </Extensions>
+            </InLine>
+        </Ad>
+    </VAST>
